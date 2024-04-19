@@ -30,27 +30,27 @@ body {
 #menu{
     height: 500px;
     width: 300px;
-    background-color: #f4f4f4;
+    background-color: #ffffff;
     float: center;
     margin-left: 37px;
     margin-top: 10px;
 }
-#F2{
-    width: 330px;
-    height: 280px;
-    background-color: #f4f4f4;
+#conteudo{
+    width: 800px;
+    height: 500px;
+    background-color: #ffffff;
     float: center;
     margin-top: 10px;
     margin-left: 5px;
    
 }
-#F3{
-    height: 330px;
-    width: 280px;
-    background-color: #f4f4f4;
+#lado{
+    height: 500px;
+    width: 350px;
+    background-color: #ffffff;
     float: center;
-    margin-top: 10px;
     margin-left: 5px;
+    margin-top: 10px;
     margin-block-end: 5px;
 }
  
